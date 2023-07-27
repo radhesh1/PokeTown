@@ -78,7 +78,7 @@ We welcome contributions from the community to improve and expand PokeTown. If y
 
 ## License
 
-PokeTown is released under the [MIT License](LICENSE).
+PokeTown is released under the [GNU License](LICENSE).
 
 ## Contact
 
