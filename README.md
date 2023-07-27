@@ -65,8 +65,6 @@ PokeTown offers a vast, open-world environment to explore. Journey through dense
 PokeTown is built using the following technologies:
 
 - HTML5, CSS3, and JavaScript for the frontend user interface.
-- Node.js and Express.js for the backend server.
-- MongoDB for storing player data and game progress.
 
 ### Architecture
 
