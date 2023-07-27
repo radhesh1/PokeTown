@@ -15,7 +15,6 @@ Welcome to PokeTown, a thrilling web-based game that takes you on an exciting ad
 4. [Controls](#controls)
 5. [Technical Details](#technical-details)
    - [Technologies Used](#technologies-used)
-   - [Architecture](#architecture)
 6. [Contributing](#contributing)
 7. [License](#license)
 8. [Contact](#contact)
@@ -65,11 +64,7 @@ PokeTown offers a vast, open-world environment to explore. Journey through dense
 PokeTown is built using the following technologies:
 
 - HTML5, CSS3, and JavaScript for the frontend user interface.
-
-### Architecture
-
-PokeTown follows a client-server architecture. The client-side handles user interactions and renders the game graphics, while the server-side manages game logic, player data, and interactions with the database.
-
+  
 ## Contributing
 
 We welcome contributions from the community to improve and expand PokeTown. If you're interested in contributing, please fork this repository, make your changes, and submit a pull request. We'll review it and merge it if it aligns with the project's goals.
